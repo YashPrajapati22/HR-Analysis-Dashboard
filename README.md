@@ -52,6 +52,3 @@ A donut plot offers an alternative representation of attrition rates based on ed
 
 # Contributing :-
 Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
-
-# Links :-
-I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
