@@ -50,7 +50,7 @@ A donut plot offers an alternative representation of attrition rates based on ed
 ## Dashboard Image :-
 ![HR Dashboard Capture](https://github.com/user-attachments/assets/9f31ec35-13b5-4960-b0ed-68a93b58e887)
 
-# Contributing
+# Contributing :-
 Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
 
 # Links :-
